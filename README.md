@@ -1,1 +1,1 @@
-# Hotel-Management-
+Developed a Hotel Management System using Python to streamline booking, check-in, and check-out processes. The system efficiently handles guest information, room availability, and billing. Implemented features like reservation tracking, automated billing, and user authentication to ensure smooth hotel operations. The project emphasizes modular design, enabling scalability and easy maintenance, while enhancing the overall guest experience and operational efficiency# Hotel-Management-
